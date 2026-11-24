@@ -1,4 +1,4 @@
 # Git Practice
 create a file for git
 
-# Chabges from Feature
+# Changes from MainFeature
